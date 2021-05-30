@@ -1,3 +1,3 @@
 Proiect Tehnologii Web
 
-Sd. Neamu Alexandru 
+Sd. Neamu Alexandru

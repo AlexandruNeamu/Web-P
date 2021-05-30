@@ -1,0 +1,32 @@
+ .centered{
+    display: flex;
+    justify-content: center;
+  }
+   
+ .ops {
+    display: flex;
+    justify-content: center;
+  }
+   
+ .spaced {
+    margin-right: 10px;
+  }
+  #fbBt{
+    margin-left: 48.8%;
+    margin-top: 20px;
+  }
+  #submitBt{
+    margin-left: 46.5%;
+    margin-top: 4%;
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    font-style: inherit;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .dropDown{
+    margin-top: 20px;
+    font-style: italic;
+    font-weight: 500;
+  }

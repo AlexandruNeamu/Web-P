@@ -1,0 +1,62 @@
+body{
+  background-color: white;
+  margin: 0;
+}
+
+#stop{
+  width: 100%;
+  height: 17em;
+}
+
+#fridge{
+  width: 100%;
+  opacity: 0.2;
+  position: absolute;
+}
+
+.header{
+  background-color: gray;
+  padding: 15px;
+  margin: 0;
+}
+
+ul.header li{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  display: inline-block;
+  padding: 15px;
+  margin-left: 40px;
+  margin-right: 10px;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 15px;
+  display: inline-block;
+}
+
+ul.header li a:hover{
+  color: black;
+}
+
+#login{
+  float: right;
+}
+
+#heading1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  padding: 110px;
+  font-size: 80px;
+}
+
+p{
+  text-align: justify;
+  margin: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  position: absolute;
+}
